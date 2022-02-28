@@ -43,3 +43,5 @@ const printPassTimes = function(passTimes) {
 //   console.log("It worked! the returned flyovertimes are:", data);
   
 // });
+
+module.exports = { printPassTimes };
